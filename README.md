@@ -1,12 +1,12 @@
 # Kendro releases
 
-This repository holds only the release packages of Kendro (formerly Skyrim Wiki), a fan-made
+This repository holds only the release packages of Kendro, a fan-made
 Windows reference app for The Elder Scrolls V: Skyrim Special Edition with
 Dawnguard, Hearthfire and Dragonborn. It contains no source code.
 
 The app's built-in update check reads the release feed from this
 repository over HTTPS. It sends no usage data and installs an update only
-after you confirm it. Favorites and notes stay in `%LocalAppData%\SkyrimWiki`.
+after you confirm it. Favorites and notes stay in `%LocalAppData%\Kendro`.
 
 ## Windows SmartScreen warning
 
